@@ -13,7 +13,7 @@
           {
               name: 'なんでもないや ', //音频名称
               artist: 'Akie秋绘', //音频艺术家
-              url: 'http://m10.music.126.net/20200503011119/d6035f4fc1f4748d30edd768d2d51881/ymusic/8ae5/e063/1d74/9ae813168a4f921968579bf889528dbc.mp3', //音频外链
+              url: 'http://music.163.com/#/song?id=450795499.mp3', //音频外链
               cover: '/images/ri1.jpg', //音频封面
           },
      
